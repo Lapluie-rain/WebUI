@@ -1,0 +1,10 @@
+Mon, 06 Sep 2021 11:3228 login.py[line:22] INFO ==========登录模块==========
+Mon, 06 Sep 2021 11:3232 login.py[line:30] INFO 输入的账户为：19542820141
+Mon, 06 Sep 2021 11:3233 login.py[line:36] INFO 输入的密码为：yuzhen123
+Mon, 06 Sep 2021 11:3235 login.py[line:46] INFO ==========登录失败！！！请分析原因...==========
+Mon, 06 Sep 2021 11:3235 test_customer.py[line:19] INFO ==========快速创建目标客户==========
+Mon, 06 Sep 2021 11:3241 login.py[line:22] INFO ==========登录模块==========
+Mon, 06 Sep 2021 11:3244 login.py[line:30] INFO 输入的账户为：19542820141
+Mon, 06 Sep 2021 11:3245 login.py[line:36] INFO 输入的密码为：yuzhen123
+Mon, 06 Sep 2021 11:3247 login.py[line:46] INFO ==========登录失败！！！请分析原因...==========
+Mon, 06 Sep 2021 11:3247 test_leads.py[line:22] INFO ==========快速创建潜在客户==========
